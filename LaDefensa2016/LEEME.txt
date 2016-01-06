@@ -1,0 +1,1 @@
+Aqui se creara el nuevo proyecto usando SFML y las buenas practicas de programacion.
