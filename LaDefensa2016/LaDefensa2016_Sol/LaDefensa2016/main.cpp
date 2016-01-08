@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	cout << "Hola, esta consola la usaremos para debuggear"
-		<< " el codigo con un simple cout!\n";
+		<< " el codigo con un simple cout!\nStewie en linea. cabrilla";
 	Game game;
 	game.run();
 
